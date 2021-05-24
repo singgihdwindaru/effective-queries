@@ -9,5 +9,3 @@ update #t set
     running_total = @total
 
 select * from #t
-
--- CPU 0, Reads 58, Duration 139
