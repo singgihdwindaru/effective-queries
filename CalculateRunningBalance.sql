@@ -9,3 +9,4 @@ update #t set
     running_total = @total
 
 select * from #t
+--t
